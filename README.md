@@ -1,8 +1,7 @@
-<h3>imgur-anonymous-photo-upload</h3>
+<h2>Multipart POST Helper Singleton Class</h2>
 ============================
-
-<h2>Multipart POST Helper Singleton class to upload anonymous images to album on imgur.</h2>
-
+<p>Upload anonymous images to album on imgur.com</p>
+ 
 <h3>Options:</h3>
 - album
 - title 
