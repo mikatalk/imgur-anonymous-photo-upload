@@ -1,5 +1,4 @@
 <h2>Multipart POST Helper Singleton Class</h2>
-============================
 <p>Upload anonymous images to album on imgur.com</p>
  
 <h3>Options:</h3>
